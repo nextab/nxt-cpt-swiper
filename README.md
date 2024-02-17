@@ -8,7 +8,7 @@ Most of what you need to create a slider with the popular Swiper JavaScript libr
 - upload plugin
 - use the shortcode and display your custom post type in a swiper slider!
 
-## livestream examples
+## livestream examples (German)
 - initial setup (roughly 100 minutes) - https://www.youtube.com/live/7aIwv4d2OpA?si=ZGsqx-PQcDwDX1j4&t=4662
 - fine-tuning design for Licutherm - https://www.youtube.com/watch?v=oQZtOoR5HKQ
 - setting up a testimonial slider for Cedura - https://www.youtube.com/watch?v=anLHFC1Hkn8
